@@ -2,11 +2,11 @@
 
 ---
 
-1. Intro to DeepLearning (Lecture + Code)
-2. RNN LSTM (Lecture + Code)
-3. CNN (Lecture + Code)
-4. NLP (Lecture + Code)
-5. Generative Models (Lecture + Code)
+1. ### [Intro to DeepLearning (Lecture + Code)](https://github.com/DeepHoosh/course/tree/main/Deep%20Learning/01_Intro_to_DeepLearning)
+2. ### [RNN LSTM (Lecture + Code)](https://github.com/DeepHoosh/course/tree/main/Deep%20Learning/02_RNN_LSTM)
+3. ### [CNN (Lecture + Code)](https://github.com/DeepHoosh/course/tree/main/Deep%20Learning/03_CNN)
+4. ### [NLP (Lecture + Code)](https://github.com/DeepHoosh/course/tree/main/Deep%20Learning/04_NLP)
+5. ### [Generative Models (Lecture + Code)](https://github.com/DeepHoosh/course/tree/main/Deep%20Learning/05_Generative_Models)
 
 ---
 
